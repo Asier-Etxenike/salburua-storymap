@@ -12,7 +12,7 @@ var config = {
     title: 'Salburuko oroimenaren herri lasterketa',
     subtitle: 'Salburua, Durango, Gernika: oroimenetik, elkartasunera.',
     byline: 'Salburua Burdinbide Auzo elkartea',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Iturriak: https://www.museodelapaz.eus/ <br><br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
 
     chapters: [
     {
